@@ -56,5 +56,36 @@ namespace CarDealershipAPI.Controllers
 
             return CreatedAtAction(nameof(GetCarsById), new { id = car.CarId }, car);
         }
+
+        //PUTTing to the API
+        //PUT:api/Company{id}
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult>PutCar(int id, Cars car)
+        {
+            // cheking to make sure the car macthes up by id
+            if (id != car.CarId)
+            {
+                return BadRequest();
+            }
+
+            _database.Entry(car).State = EntityState.Modified;
+            await _database.SaveChangesAsync();
+            return NoContent();
+        }
+
+        [HttpDelete]
+        public async Task<ActionResult> DeleteCar(int id)
+        {
+            var car = await _database.Cars.FindAsync(id);
+            if(car == null)
+            {
+                return NotFound();
+            }
+            _database.Cars.Remove(car);
+            await _database.SaveChangesAsync();
+            return NoContent();
+        }
+        
     }
 }
