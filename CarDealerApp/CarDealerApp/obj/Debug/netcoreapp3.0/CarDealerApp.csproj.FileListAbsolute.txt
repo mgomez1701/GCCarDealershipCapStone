@@ -128,8 +128,11 @@ C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\bin\Debug\netcoreapp3.0\CarDealerApp.pdb
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\bin\Debug\netcoreapp3.0\CarDealerApp.Views.dll
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\bin\Debug\netcoreapp3.0\CarDealerApp.Views.pdb
-C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\CarDealerApp.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\CarDealerApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\CarDealerApp.Views.pdb
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\CarDealerApp.dll
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\CarDealerApp.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\CarDealerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\CarDealerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CarDealershipCapstone\CarDealerApp\CarDealerApp\obj\Debug\netcoreapp3.0\Razor\Views\Cars\AddCar.cshtml.g.cs
